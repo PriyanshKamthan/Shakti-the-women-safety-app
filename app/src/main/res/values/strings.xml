@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shakti</string>
+    <string name="title">Shakti:\nThe Women Safety App</string>
+    <string name="moto">you are never alone</string>
+    <string name="help">Help</string>
+    <string name="contact_head">Contact Information</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="alert_message">"Please help me I am in need, I'm here: "</string>
+    <string name="try_alert_message">Trying to send help to your location</string>
+    <string name="no_contact_added">"No contact is been added yet"</string>
+    <string name="location_not_granted">Location access not granted</string>
+    <string name="phone_number_added_successfully">Phone Number added successfully</string>
+    <string name="addition_unsuccessful">Addition unsuccessful</string>
+    <string name="phone_number_incorrect">Phone number incorrect</string>
+    <string name="data_deleted">Your data is deleting</string>
+    <string name="number_deleted_successfully">Phone Number deleted successfully</string>
+    <string name="delete_unsuccessful">deletion unsuccessful</string>
+    <string name="description" translatable="false">This app will help you:\n>> Add your trusted ones \n>> Tap "HELP" once, when you feel unsafe \n>> Your love ones will get safety alert from you.</string>
+    <string name="location">location</string>
+
+</resources>

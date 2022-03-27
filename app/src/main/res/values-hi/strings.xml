@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">शक्ति</string>
+    <string name="title">महिला सुरक्षा एप</string>
+    <string name="moto">आपके अपने आपके साथ</string>
+    <string name="help">सहायता</string>
+    <string name="contact_head">संपर्क जानकारी</string>
+    <string name="enter_phone_number">अपना फोन नंबर दर्ज करे</string>
+    <string name="phone_number_added_successfully">संपर्क सफलतापूर्वक जोड़ा गया</string>
+    <string name="number_deleted_successfully">संपर्क सफलतापूर्वक हटाएं गया</string>
+    <string name="addition_unsuccessful">डेटा जोड़ा नहीं जा सका</string>
+    <string name="phone_number_incorrect">फ़ोन नंबर गलत</string>
+    <string name="alert_message">कृपया मेरी मदद करें मुझे ज़रूरत है, मैं यहाँ हूँ:</string>
+    <string name="try_alert_message">आपके स्थान पर सहायता भेजने का प्रयास किया जा रहा है</string>
+    <string name="no_contact_added">अभी तक कोई संपर्क नहीं जोड़ा गया है</string>
+    <string name="location_not_granted">स्थान की अनुमति नहीं दी गई</string>
+    <string name="data_deleted">आपका डेटा हटा रहा है</string>
+    <string name="delete_unsuccessful">हटाया नहीं गया</string>
+</resources>
